@@ -7,7 +7,7 @@ public static void main(Strings args[])
 
 
 
-System.in.println(c);
+System.out.println("Hello World!!");
 
 }
 
